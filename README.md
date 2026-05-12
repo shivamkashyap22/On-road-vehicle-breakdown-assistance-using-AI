@@ -1,6 +1,6 @@
 # On-Road Vehicle Breakdown Assistance System Using AI
 
-MCA Final Year Project — Full-stack web application for requesting and providing on-road vehicle breakdown assistance with AI chat and live tracking.
+Full-stack web application for requesting and providing on-road vehicle breakdown assistance with AI chat and live tracking.
 
 ## Tech stack
 
@@ -46,9 +46,6 @@ See **SETUP_GUIDE.md** for detailed steps (MySQL, JWT, OpenAI, Google Maps, trou
 - **SETUP_GUIDE.md** — Environment, keys, run order, and troubleshooting.
 
 ---
-
-**Title**: On-Road Vehicle Breakdown Assistance System Using AI  
-**Purpose**: MCA final year project — demo-ready, viva-friendly, resume-ready.
 
 
 ## Developed By
