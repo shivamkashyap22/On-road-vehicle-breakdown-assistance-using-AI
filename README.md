@@ -50,6 +50,6 @@ See **SETUP_GUIDE.md** for detailed steps (MySQL, JWT, OpenAI, Google Maps, trou
 
 ## Developed By
 
-**Shivam Kashyap** and
+**Shivam Kashyap** ,
 **Priyanshu Pandey**
 
