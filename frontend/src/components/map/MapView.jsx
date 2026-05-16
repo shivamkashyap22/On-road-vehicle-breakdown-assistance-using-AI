@@ -13,7 +13,7 @@ export default function MapView({ center = { lat: 28.6139, lng: 77.2090 }, zoom 
   const [loadError, setLoadError] = useState(false)
 
   useEffect(() => {
-    const key = import.meta.env.VITE_GOOGLE_MAPS_KEY
+    const key = import.meta.env.VITE_GOOGLE_MAPS_API_KEY
     if (key && !window.google && !document.querySelector('script[src*="maps.googleapis.com"]')) {
       const script = document.createElement('script')
       script.src = `https://maps.googleapis.com/maps/api/js?key=${key}`

@@ -6,9 +6,9 @@ spring:
     name: breakdown-assistance
 
   datasource:
-    url: jdbc:mysql://localhost:3306/breakdown_assistance?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost:3306/breakdown_assistance
     username: root
-    password: root1234   # 👈 yahan apna MySQL password daal
+    password: root1234  
     driver-class-name: com.mysql.cj.jdbc.Driver
 
     hikari:
